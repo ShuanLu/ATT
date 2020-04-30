@@ -1,0 +1,11 @@
+object-group network net_9.115.208.0
+no network-object host 9.115.208.111
+no network-object host 9.115.208.112
+
+
+
+
+
+object-group network net_9.123.120.0
+ network-object host 9.123.120.10
+ network-object host 9.123.120.11
